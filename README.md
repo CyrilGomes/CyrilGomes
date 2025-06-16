@@ -14,7 +14,7 @@
 
 ## 💼 Professional Experience
 
-### 🏢 **Tech Lead / Senior Software Engineer** @ OKTEO *(Oct 2024 - Present)*
+### 🏢 **Tech Lead / Software Engineer** @ OKTEO *(Oct 2024 - Present)*
 - Leading development teams and architecting scalable REST APIs using **C#, ASP.NET Core, EF Core**
 - Managing **CI/CD pipelines** with Azure DevOps and **Kubernetes deployments**
 - Mentoring junior developers on .NET architecture and best practices
