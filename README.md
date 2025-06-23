@@ -80,8 +80,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=CyrilGomes&show_icons=true&theme=radical&hide_border=true" alt="Cyril's GitHub Stats" />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyrilGomes&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height=178 src="https://github-readme-stats.vercel.app/api?username=CyrilGomes&show_icons=true&theme=radical&hide_border=true" alt="Cyril's GitHub Stats" />
+  <img height=178 src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyrilGomes&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
